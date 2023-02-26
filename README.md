@@ -48,11 +48,7 @@ Here are some ideas to get you started:
       <td><a href="https://user.solplace.in"><b>Service Online</b></a></td>
       <td>Web application to handle enquiry & service requests. </td>
     </tr>
-	  <tr>
-       <td><a href="www.learnomed.com"><b>LearnO Med</b></a></td>
 
-      <td>Web application, digital library and collaboration tool for medical students</td>
-    </tr>
     <tr>
       <td><a href="https://vendor.meata2z.com"><b>MeatA2Z</b></a></td>
       <td>Web and Android/IOS applications to handle smooth delivery of meat.</td>
