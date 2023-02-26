@@ -49,7 +49,7 @@ Here are some ideas to get you started:
       <td>Web application to handle enquiry & service requests. </td>
     </tr>
 	  <tr>
-      <td><a href="www.learnomed.com" target="_blank"><b>LearnO Med</b></a></td>
+      <td>[LearnO Med](www.learnomed.com){:target="_blank"}</td>
       <td>Web application, digital library and collaboration tool for medical students</td>
     </tr>
     <tr>
