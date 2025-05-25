@@ -45,11 +45,11 @@ Here are some ideas to get you started:
   </thead>
   <tbody>
         <tr>
-      <td><a href="https://user.solplace.in"><b>DocChat AI</b></a></td>
+      <td><a href="https://chat-with-docs-livid.vercel.app"><b>DocChat AI</b></a></td>
       <td>Full-stack web app that lets users upload a document or image and have a real-time conversation with it using semantic search and natural language understanding. </td>
     </tr>
         <tr>
-      <td><a href="https://user.solplace.in"><b>RediSocket</b></a></td>
+      <td><a href="https://socket-chat-kappa.vercel.app"><b>RediSocket</b></a></td>
       <td>A scalable real-time chat application built using the MERN stack with Socket.IO for bi-directional communication and Redis for horizontal scaling across multiple server instances.</td>
     </tr>
     <tr>
