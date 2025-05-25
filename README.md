@@ -44,21 +44,17 @@ Here are some ideas to get you started:
     </tr>
   </thead>
   <tbody>
+        <tr>
+      <td><a href="https://user.solplace.in"><b>DocChat AI</b></a></td>
+      <td>Full-stack web app that lets users upload a document or image and have a real-time conversation with it using semantic search and natural language understanding. </td>
+    </tr>
+        <tr>
+      <td><a href="https://user.solplace.in"><b>RediSocket</b></a></td>
+      <td>A scalable real-time chat application built using the MERN stack with Socket.IO for bi-directional communication and Redis for horizontal scaling across multiple server instances.</td>
+    </tr>
     <tr>
       <td><a href="https://user.solplace.in"><b>Service Online</b></a></td>
       <td>Web application to handle enquiry & service requests. </td>
-    </tr>
- <tr>
-      <td><a href="www.learnomed.com"><b>LearnO Med</b></a></td>
-      <td>Web application, digital library and collaboration tool for medical students</td>
-    </tr>
- <tr>
-      <td><a href="https://vendor.meata2z.com"><b>MeatA2Z</b></a></td>
-      <td>Web and Android/IOS applications to handle smooth delivery of meat.</td>
-    </tr>
-     <tr>
-      <td><a href="https://amazon-clone-reactjs-stripe.netlify.app"><b>Amazon Clone</b></a></td>
-      <td>Amazon clone using ReactJS</td>
     </tr>
   </tbody>
 </table>
